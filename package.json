@@ -15,7 +15,7 @@
     "rollup-plugin-node-resolve": "^3.3.0"
   },
   "dependencies": {
-    "file-path-one-layer": "file:../file-path-one-layer",
+    "file-path-one-layer": "github:ofa2/file-path-one-layer",
     "lodash": "^4.17.10"
   }
 }
