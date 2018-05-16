@@ -525,6 +525,13 @@
     lodash "^4.2.0"
     to-fast-properties "^2.0.0"
 
+"@ofa2/file-path-one-layer@^1.0.5":
+  version "1.0.5"
+  resolved "https://registry.npmjs.org/@ofa2/file-path-one-layer/-/file-path-one-layer-1.0.5.tgz#77293bf5ff1edec8af10e5301957ba06f2d303fc"
+  dependencies:
+    bluebird "^3.5.1"
+    fs-extra "^6.0.0"
+
 "@types/estree@0.0.38":
   version "0.0.38"
   resolved "https://registry.npmjs.org/@types/estree/-/estree-0.0.38.tgz#c1be40aa933723c608820a99a373a16d215a1ca2"
@@ -1000,13 +1007,6 @@ file-entry-cache@^2.0.0:
   dependencies:
     flat-cache "^1.2.1"
     object-assign "^4.0.1"
-
-"file-path-one-layer@github:ofa2/file-path-one-layer":
-  version "1.0.0"
-  resolved "https://codeload.github.com/ofa2/file-path-one-layer/tar.gz/a08677339b595e684ad366f3d4cb0425a0c40cfb"
-  dependencies:
-    bluebird "^3.5.1"
-    fs-extra "^6.0.0"
 
 filename-regex@^2.0.0:
   version "2.0.1"

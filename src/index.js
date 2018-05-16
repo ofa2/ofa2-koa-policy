@@ -1,6 +1,6 @@
 import _ from 'lodash';
 import path from 'path';
-import filePathOneLayer from 'file-path-one-layer';
+import filePathOneLayer from '@ofa2/file-path-one-layer';
 
 function lift() {
   /* eslint-disable global-require */

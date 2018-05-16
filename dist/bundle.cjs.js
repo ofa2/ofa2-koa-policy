@@ -4,7 +4,7 @@ function _interopDefault (ex) { return (ex && (typeof ex === 'object') && 'defau
 
 var _ = _interopDefault(require('lodash'));
 var path = _interopDefault(require('path'));
-var filePathOneLayer = _interopDefault(require('file-path-one-layer'));
+var filePathOneLayer = _interopDefault(require('@ofa2/file-path-one-layer'));
 
 function lift() {
   /* eslint-disable global-require */
